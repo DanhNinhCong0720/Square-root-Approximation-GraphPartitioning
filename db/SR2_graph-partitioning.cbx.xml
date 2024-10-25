@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="SR2_graph-partitioning">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Absolute_8bit:inst3|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Max_8bit:inst8|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_3to1_8bit:inst1|BUSMUX:inst2|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_6to1_8bit:inst|BUSMUX:inst4|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_6to1_8bit:inst|BUSMUX:inst|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Absolute_8bit:inst2|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Min_8bit:inst5|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_6to1_8bit:inst|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_6to1_8bit:inst|BUSMUX:inst5|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_3to1_8bit:inst1|BUSMUX:inst|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Square-root_approximation|Datapath:inst|Mux_6to1_8bit:inst|BUSMUX:inst2|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
