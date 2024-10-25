@@ -1,0 +1,10 @@
+# do SR2_graph-partitioning.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module \Square-root_approximation 
+# 
+# Top level modules:
+# 	\Square-root_approximation 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# ** Error: SR2_graph-partitioning.vt(29): near "-": syntax error, unexpected '-', expecting import or ';' or '#' or '('
+# ** Error: c:/altera/13.0sp1/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./SR2_graph-partitioning.do line 4
